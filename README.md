@@ -39,6 +39,12 @@ Target:
 
 Wine quality score (3–8)
 
+Dataset Link:
+https://archive.ics.uci.edu/ml/datasets/wine+quality
+
+Note:
+The dataset is not included in this repository. Please download the dataset from the official UCI repository before running the notebooks.
+
 ---
 
 ## Methods
